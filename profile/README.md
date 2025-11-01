@@ -5,10 +5,12 @@ Welcome to the official GitHub organization of the Artificial Perception and Aut
 ## What we do
 
 Our research and projects cover a wide range of topics including:
-- Computer vision and perception for robotics
+- Computer vision and artificial perception
+- Autonomous and assistive robots
 - Machine learning and AI applications
+- Biometrics and human identification
 - Privacy-preserving technologies
-- Distributed systems
+- Distributed and secure systems
 
 ## Why this GitHub organization?
 
